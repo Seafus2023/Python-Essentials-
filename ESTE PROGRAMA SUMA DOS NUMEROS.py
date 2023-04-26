@@ -1,0 +1,12 @@
+#ESTE PROGRAMA SUMA DOS NUMEROS
+num1=int(input("Ingrese el primer numero: "))
+num2=int(input("Ingrese el segundo numero: "))
+print(num1)
+print(type(num1))
+print("")
+print(num2)
+print(type(num2))
+print("")
+print("La suma de los numeros anteriores es: ")
+print(num1+num2)
+print(type(num1+num2))
